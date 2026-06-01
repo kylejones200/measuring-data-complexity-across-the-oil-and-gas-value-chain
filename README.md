@@ -11,14 +11,7 @@ The chart above shows the estimated number of common file formats across differe
 
 The upstream segment has the most complex data landscape. Geological modeling and mapping alone involves around ten different file formats. Petrel, Kingdom, and other platforms use their own standards. Integrating them is often a manual process.
 
-## About
 
-Place the code for this article in this repository.
-The original article export is saved as `article.md`.
-
-## Files
-
-Add your `.ipynb`, `.py`, `.yaml`, `.js`, `.ts`, or other project files here.
 
 ## Disclaimer
 
